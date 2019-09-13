@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n) because its running linearly
 
 
-b)
+b) O(n^2) because it contains two loops which are nested
 
 
-c)
+c) O(n) because of the size of the input? 
 
 ## Exercise II
 

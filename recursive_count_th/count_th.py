@@ -14,10 +14,10 @@ def count_th(word):
     else:
         return count_th(word[1::])
 
-word_one = 'abcthxyz'
-word_two = 'THtHThth'
+# word_one = 'abcthxyz'
+# word_two = 'THtHThth'
 
-count_th(word_one)
-count_th(word_two)
+# count_th(word_one)
+# count_th(word_two)
     
-    # pass
+#     pass
